@@ -1,4 +1,4 @@
-##Blur##
+## Blur ##
 高斯模糊库，四种模糊方式 
 
 ### Support ###
@@ -99,9 +99,3 @@ mBlurMaskRelativeLayout.blurMode(BlurMode.RENDER_SCRIPT)
             android:textSize="22sp"/>
     </net.robinx.lib.blur.widget.BlurRelativeLayout>
 ```
-
-
-
-#About me
-Email:735506404@robinx.net<br>
-Blog:[www.robinx.net](http://www.robinx.net)
